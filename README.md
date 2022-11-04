@@ -103,6 +103,28 @@ Ready with the flamethrower to torch some demons
 <hr />
 <!-- PASTE YOUR INFO HERE -->
 <!-- INSERT a RANDOM Image/Gif -->
+<img alt="GIF" align="right" height="250" src="https://media.tenor.com/6_t5qw9iSrYAAAAC/ross-im-fine.gif">
+
+<!-- Enter your NAME and a recent fav Emoji -->
+
+### Rachit-Bhojani ~ Rakite28😁
+
+<!-- Enter a TAGLINE -->
+Learning Together!!😎
+
+Your tagline
+
+<!-- Enter the STUFF -->
+- 💻 Fav Language(Coding obvv):C......... 
+- 🤔 Random Fun Fact: Love to go on long rides bike or car!
+- 🤩 In my Free time I like to: Sleep!
+- 💡 Would do(if I were smart): Same as now but less procrastination!😂
+#### 🔗 Socials 
+- [rakite28](https://www.github.com/rakite28)
+- [Twitter](https://www.twitter.com/rakite28)
+- [Instagram](https://www.instagram.com/rakite28)
+
+<!-- INSERT a RANDOM Image/Gif -->
 <img alt="GIF" align="right" height="250" src="https://outofschool.club/wp-content/uploads/2015/02/insert-image-here.jpg">
 
 <!-- Enter your NAME and a recent fav Emoji -->
