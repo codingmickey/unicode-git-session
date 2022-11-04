@@ -20,6 +20,8 @@ Hi, I'm here for the memes
 - [Twitter](https://www.twitter.com/codingmickey)
 - [Instagram](https://www.instagram.com/kartik.jolapara)
 
+<hr />
+<!-- PASTE YOUR INFO HERE -->
 
 <!-- INSERT a RANDOM Image/Gif -->
 <img alt="GIF" align="right" height="250" src="https://media.tenor.com/tCjTgmOJZYcAAAAM/zragon-infinity-yuji-itadori.gif">
@@ -37,6 +39,8 @@ Your tagline
 - [Social Name](Link)
 - [Twitter](https://www.twitter.com/codingmickey)
 - [Instagram](https://www.instagram.com/kartik.jolapara)
+
+<hr />
 
 ## Participants
 
@@ -56,3 +60,7 @@ Your tagline
 - [Social Name](Link)
 - [Twitter](https://www.twitter.com/codingmickey)
 - [Instagram](https://www.instagram.com/kartik.jolapara)
+
+<hr />
+<!-- PASTE YOUR INFO HERE -->
+
