@@ -81,6 +81,27 @@ From Mood board to reality
 -   [Twitter](https://www.twitter.com/tirthnisar)
 -   [Instagram](https://www.instagram.com/tirth_01_09)
 <hr />
+<!-- INSERT a RANDOM Image/Gif -->
+<img alt="GIF" align="right" height="250" src="https://media.giphy.com/media/pI2paNxecnUNW/giphy.gif">
+
+<!-- Enter your NAME and a recent fav Emoji -->
+
+### Aashi Goel 🙃
+
+<!-- Enter a TAGLINE -->
+
+Ready with the flamethrower to torch some demons
+
+<!-- Enter the STUFF -->
+- 💻 Fav Language: `Python` 
+- 🤔 Random Fun Fact: Without the space inside of atoms, the entire human race would fit into the volume of a sugar cube.
+- 🤩 In my Free time I like to: Read novels
+- 💡 Would do(if I were smart): `Blockchain`
+#### 🔗 Socials 
+- [LinkedIn](http://www.linkedin.com/in/aashi-goel-6a767a225/)
+- [Pinterest](https://pin.it/1jgqsX7)
+- [Instagram](https://www.instagram.com/aashigoel71203@gmail.com)
+<hr />
 <!-- PASTE YOUR INFO HERE -->
 <!-- INSERT a RANDOM Image/Gif -->
 <img alt="GIF" align="right" height="250" src="https://outofschool.club/wp-content/uploads/2015/02/insert-image-here.jpg">
