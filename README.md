@@ -83,7 +83,7 @@ From Mood board to reality
 <hr />
 <!-- PASTE YOUR INFO HERE -->
 <!-- INSERT a RANDOM Image/Gif -->
-<img alt="GIF" align="right" height="250" src="https://tenor.com/W5Ny.gif">
+<img alt="GIF" align="right" height="250" src="https://media.tenor.com/6_t5qw9iSrYAAAAC/ross-im-fine.gif">
 
 <!-- Enter your NAME and a recent fav Emoji -->
 
