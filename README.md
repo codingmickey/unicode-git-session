@@ -48,7 +48,7 @@ Your tagline
 <img alt="GIF" align="right" height="250" src="https://outofschool.club/wp-content/uploads/2015/02/insert-image-here.jpg">
 
 <!-- Enter your NAME and a recent fav Emoji -->
-### Your Name + Emoji
+### Aditi + Emoji
 <!-- Enter a TAGLINE -->
 Your tagline
 <!-- Enter the STUFF -->
