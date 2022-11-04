@@ -100,7 +100,6 @@ Ready with the flamethrower to torch some demons
 #### 🔗 Socials 
 - [LinkedIn](http://www.linkedin.com/in/aashi-goel-6a767a225/)
 - [Pinterest](https://pin.it/1jgqsX7)
-- [Instagram](https://www.instagram.com/aashigoel71203@gmail.com)
 <hr />
 <!-- PASTE YOUR INFO HERE -->
 <!-- INSERT a RANDOM Image/Gif -->
