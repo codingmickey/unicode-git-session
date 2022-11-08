@@ -127,7 +127,7 @@ Your tagline
 <hr />
 
 <!-- INSERT a RANDOM Image/Gif -->
-<img alt="GIF" align="right" height="250" src="https://media.tenor.com/IvTJhDExJGAAAAAC/me-and-the-boys-meme.gif">
+<img alt="GIF" align="right" height="250" src="https://media.tenor.com/BP70qe8X0J8AAAAM/crycat-crying-cat.gif">
 
 <!-- Enter your NAME and a recent fav Emoji -->
 ### Mohit Dhatrak 🪅
