@@ -124,6 +124,32 @@ Your tagline
 - [Twitter](https://www.twitter.com/rakite28)
 - [Instagram](https://www.instagram.com/rakite28)
 
+<hr />
+
+<!-- INSERT a RANDOM Image/Gif -->
+<img alt="GIF" align="right" height="250" src="https://media.tenor.com/BP70qe8X0J8AAAAM/crycat-crying-cat.gif">
+
+<!-- Enter your NAME and a recent fav Emoji -->
+### Mohit Dhatrak 🪅
+
+<!-- Enter a TAGLINE -->
+Wakanda forever
+
+<!-- Enter the STUFF -->
+
+-   💻 Fav Language(Coding obvv): JS 😏
+-   🤔 Random Fun Fact: The Spanish national anthem has no words
+-   🤩 In my Free time I like to: Eat, sleep, watch cricket/football
+-   💡 Would do(if I were smart): End world hunger
+
+#### 🔗 Socials
+
+-   [mohitdhatrak](https://mohitdhatrak.bio.link)
+-   [Twitter](https://twitter.com/mohitdhatrak)
+-   [Instagram](https://www.instagram.com/dhatrakmohit)
+
+<hr />
+
 <!-- INSERT a RANDOM Image/Gif -->
 <img alt="GIF" align="right" height="250" src="https://outofschool.club/wp-content/uploads/2015/02/insert-image-here.jpg">
 
